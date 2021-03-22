@@ -1,0 +1,6 @@
+# for basic arithmatic
+numpy
+#for flexible data format
+pandas
+# for learning and analysis
+scikit-learn
